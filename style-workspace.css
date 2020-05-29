@@ -1,0 +1,50 @@
+body{
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	width: 200px;
+	border-radius: 20px;
+	box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.06), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+	padding: 20px;
+	margin: 50px;
+
+}
+.title{
+	color: #5a5a5a;
+	font-size: 18px;
+}
+.description {
+	color: #AAA;
+	font-size: 10.5px;
+}
+.img {
+	border-radius: 5px;
+	width: 18px;
+	height: 18px;
+	background-size: cover;
+	background-position: center;
+	margin-right: 3px; 
+}
+.container-img {
+	display: flex;
+	margin-top: 10px;
+}
+.img1 {
+	background-image: url(https://loremflickr.com/320/240/dog);
+}
+.img2 {
+	background-image: url(https://loremflickr.com/320/240/paris);
+}
+.img3 {
+	background-image: url(https://loremflickr.com/320/240/brazil,rio);
+}
+.img4 {
+	background-image: url(https://loremflickr.com/320/240/paris,girl/all);
+}
+.img5 {
+	background-image: url(https://loremflickr.com/320/240/girl/all);
+}
+.img6 {
+	background-image: url(https://loremflickr.com/320/240);
+}
